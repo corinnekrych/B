@@ -1,0 +1,20 @@
+PODS:
+  - A (0.1.0)
+
+DEPENDENCIES:
+  - A (from `https://github.com/corinnekrych/A.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  A:
+    :branch: master
+    :git: https://github.com/corinnekrych/A.git
+
+CHECKOUT OPTIONS:
+  A:
+    :commit: a572f11c08bfc988c7e827a80abcf3b410f716cc
+    :git: https://github.com/corinnekrych/A.git
+
+SPEC CHECKSUMS:
+  A: 215393ef0a11f9a64c7349e627621113aa2d00aa
+
+COCOAPODS: 0.36.0.beta.1
